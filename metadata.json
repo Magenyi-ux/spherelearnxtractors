@@ -1,0 +1,6 @@
+{
+  "name": "Textbook Processing Pipeline",
+  "description": "An offline pipeline that parses PDF and TXT textbooks, extracting chapters, headings, semantic chunks, tables, and formula metadata for AI retrieval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
