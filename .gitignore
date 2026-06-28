@@ -1,8 +1,27 @@
+# Node / frontend artifacts
 node_modules/
 build/
 dist/
 coverage/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.python-version
+venv/
+env/
+.pytest_cache/
+
+# Common ignores
 .DS_Store
 *.log
 .env*
 !.env.example
+
+# IDE settings
+.vscode/
+.idea/

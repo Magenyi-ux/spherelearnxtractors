@@ -8,6 +8,7 @@ import os
 import sys
 import argparse
 import time
+import re
 from datetime import datetime
 from typing import Optional
 
@@ -228,7 +229,7 @@ def run_pipeline(input_path: str, output_format: str, output_dir: str) -> str:
 
 import re
 
-if __name__ == "__main__":
+def run_pipeline_cli():
     parser = argparse.ArgumentParser(description="Offline Textbook Processing Pipeline")
     parser.add_argument("input_file", help="Path to the PDF or TXT textbook file")
     parser.add_argument("-f", "--format", choices=["json", "txt"], default="json", help="Output file format (json or txt)")
@@ -239,7 +240,11 @@ if __name__ == "__main__":
     try:
         saved_path = run_pipeline(args.input_file, args.format, args.output_dir)
         print(f"[SUCCESS] Textbook processed successfully in {args.format.upper()} format.")
-        sys.exit(0)
+        return saved_path
     except Exception as e:
         print(f"[ERROR] Pipeline execution failed: {e}", file=sys.stderr)
         sys.exit(1)
+
+
+if __name__ == "__main__":
+    run_pipeline_cli()
