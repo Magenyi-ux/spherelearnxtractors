@@ -1,0 +1,1444 @@
+{
+  "metadata": {
+    "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+    "file_type": "PDF",
+    "file_size_bytes": 583842,
+    "page_count": 55,
+    "processed_at": "2026-06-28 04:21:26 UTC",
+    "processing_time_seconds": 1.746,
+    "detected_chapters_count": 1,
+    "detected_sections_count": 5,
+    "chunks_count": 15,
+    "tables_count": 0,
+    "formulas_count": 138,
+    "images_count": 15
+  },
+  "chapters": [
+    "Introduction"
+  ],
+  "sections": [
+    {
+      "title": "8.6 x 10",
+      "level": 2,
+      "page_start": 3,
+      "page_end": null,
+      "chapter_parent": "Preface"
+    },
+    {
+      "title": "8.3 x 10",
+      "level": 2,
+      "page_start": 3,
+      "page_end": null,
+      "chapter_parent": "Preface"
+    },
+    {
+      "title": "8.6 x 10",
+      "level": 2,
+      "page_start": 3,
+      "page_end": null,
+      "chapter_parent": "Preface"
+    },
+    {
+      "title": "8.6 x 10",
+      "level": 2,
+      "page_start": 3,
+      "page_end": null,
+      "chapter_parent": "Preface"
+    },
+    {
+      "title": "0.00043 x 2000",
+      "level": 2,
+      "page_start": 30,
+      "page_end": null,
+      "chapter_parent": "Preface"
+    },
+    {
+      "title": "Introduction",
+      "level": 1,
+      "page_start": 1,
+      "page_end": null,
+      "chapter_parent": "Introduction"
+    }
+  ],
+  "text_chunks": [
+    {
+      "id": "chunk_0001",
+      "content": "Sample EduNgr.com JAMB\nPast Questions\nJAMB » Mathematics » 2014\nClick EduNgr.com for FREE\neducational resources, school\nnews, past questions, and\nmore...\nGet the complete JAMB » Mathematics past\nquestions & answers, with many years, including\npast & recent years past questions at\nwww.eduNgr.com OR Install EduNgr JAMB &\nPost-UTME App (OFFLINE USE, No Internet\nconnecct required)\n\nFind the value of 110111 + 10100\n1\n2 2\n1101011\nA 2\n1001001\nB 2\n1001011\nC 2\n1001111\nD 2\nA woman bought a grinder for N60,000. She\n2\nsold it at a loss of 15%. How much did she sell it?\nN53,000\nA\nN52,000\nB\nN51,000\nC\nN50,000\nD\n\nExpress the product of 0.00043 and 2000 in\n3\nstandard form.\n-3\n8.6 x 10\nA\n-2\n8.3 x 10\nB\n-1\n8.6 x 10\nC\n8.6 x 10\nD\nA man donates 10% of his monthly net earnings\n4\nto his church. If it amounts to N4,500, what is his net\nmonthly income?\nN40,500\nA\nN45,000\nB\nN52,500\nC\nN62,000\nD",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 1,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    },
+    {
+      "id": "chunk_0002",
+      "content": "If log7.5 = 0.8751, evaluate 2 log75 + log750\n5\n6.6252\nA\n6.6253\nB\n66.252\nC\n66.253\nD\n-2\nSolve for x in 8x = 2/25\n6\n4\nA\n6\nB\n8\nC\n10\nD\n\n2√2−√3\nSimplify\n7\n√2+√3\n–\n√6 − 7\n3\nA\n–\n√6 − 7\n3\nB\n–\n√6 − 1\n3\nC\n–\n√6 + 1\n3\nD\nVisit EduNgr.com for FREE educational resources,\nschool news, past questions, and more...\nEvaluate Log 8 + Log 16 - Log 4\n8\n2 2 2\n3\nA\n4\nB\n5\nC\n6\nD\n\n∪\nIf P = {1,2,3,4,5} and P Q = {1,2,3,4,5,6,7},\n9\nlist the elements in Q\n{6}\nA\n{7}\nB\n{6,7}\nC\n{5,6}\nD\n2\nIf gt - k - w = 0, make g the subject of the\n10\nformula\nk+w\nA\nt2\nk−w\nB\nt2\nk+w\nC t\nk−w\nD t\n\n2 2\nFactorize 2y - 15xy + 18x\n11\n(2y - 3x) (y + 6x)\nA\n(2y - 3x) (y - 6x)\nB\n(2y + 3x) (y - 6x)\nC\n(3y + 2x) (y - 6x)\nD\n3 2\nFind the value of k if y - 1 is a factor of y + 4y\n12\n+ ky - 6\n-6\nA\n-4\nB\nO\nC\n\n1\nD\n2\ny varies directly as w . When y = 8, w = 2. Find\n13\ny when w = 3\n18\nA\n12\nB\n9\nC\n6\nD\nP varies directly as Q and inversely as R. When\n14\nQ = 36 and R = 16, P = 27. Find the relation between\nP, Q and R.\nQ\nP =\nA 12R\n12Q\nP =\nB R",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 4,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    },
+    {
+      "id": "chunk_0003",
+      "content": "P = 12QR\nC\nP = 12\nD QR\nVisit EduNgr.com for FREE educational resources,\nschool news, past questions, and more...\nx−5 < −1\nWhat is the solution of ?\n15\nx+3\n-3 < x < 1\nA\nx < -3 or x > 1\nB\n-3 < x < 5\nC\nx < -3 or x > 5\nD\nx + 3 ≤ 5x − 7\nEvaluate the inequality\n16\n2 4 6 12\n\nx ≥ 4\nA\nx ≤ 3\nB\nx ≥ −3\nC\nx ≤ −4\nD\nThe 4th term of an A.P. is 13 while the 10th term\n17\nis 31. Find the 24th term.\n89\nA\n75\nB\n73\nC\n69\nD\nWhat is the common ratio of the G.P.\n18\n−− – −− –\n(√10 + √5) + (√10 + 2√5)+. . .\n?\n\n–\n√2\nA\n–\n√5\nB\n3\nC\n5\nD\ny\nA binary operation * is defined by x * y = x . If\n19\nx * 2 = 12 - x, find the possible values of x\n3,4\nA\n3,-4\nB\n-3,4\nC\n-3,-4\nD\n5 −6 5 7\n( ) ( ) = ( )\nFind y, if\n20\n2 −7 2 −11\n8\nA\n\n5\nB\n3\nC\n2\nD\n∣ −x 12 ∣\nIf ∣ ∣ = −12, find x\n21\n∣ −1 4 ∣\n-6\nA\n-2\nB\n3\nC\n6\nD\nVisit EduNgr.com for FREE educational resources,\nschool news, past questions, and more...",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 9,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    },
+    {
+      "id": "chunk_0004",
+      "content": "∣ 0 3 2 ∣\n∣ ∣\n1 7 8\nFind the value of\n22 ∣ ∣\n∣ 0 5 4 ∣\n12\nA\n10\nB\n-1\nC\n-2\nD\nHow many sides has a regular polygon whose\n23\no\ninterior angle is 135\n12\nA\n10\nB\n9\nC\n8\nD\n\n3\nA cylindrical tank has a capacity of 6160m .\n24\nWhat is the depth of the tank if the radius of its base\nis 28cm?\n8.0m\nA\n7.5m\nB\n5.0m\nC\n2.5m\nD\nThe locus of a dog tethered to a pole with a rope\n25\nof 4m is a\ncircle with diameter 4m\nA\ncircle with radius 4m\nB\nsemi-circle with diameter 4m\nC\nsemi-circle with radius 4m\nD\n\nFind the mid point of S(-5, 4) and T(-3, -2)\n26\n-4, 2\nA\n4, -2\nB\n-4, 1\nC\n4, -1\nD\nThe gradient of a line joining (x,4) and (1,2) is\n27\n1\n. Find the value of x\n2\n5\nA\n3\nB\n-3\nC\n-5\nD",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 13,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    },
+    {
+      "id": "chunk_0005",
+      "content": "Calculate the mid point of the line segment y -\n28\n4x + 3 = 0, which lies between the x-axis and y-axis.\n( 3 −3 8 2 )\nA\n( 3 3 8 2 )\nB\n( −2 2 2 2 )\nC\n( −2 3 3 2 )\nD\nVisit EduNgr.com for FREE educational resources,\nschool news, past questions, and more...\nFind the equation of the straight line through (-2,\n29\n3) and perpendicular to 4x + 3y - 5 = 0\n3x - 4y + 18 = 0\nA\n3x + 2y - 18 = 0\nB\n4x + 5y + 3 = 0\nC\n\n5x - 2y - 11 = 0\nD\nsin θ = 12 1 + cos θ\nIf , find the value of\n30\n13\n25\nA 13\n18\nB 13\n8\nC 13\n5\nD 13\nδy\n3 2\nIf y = 4x - 2x + x, find\n31\nδx\n2\n8x - 2x + 1\nA\n2\n8x - 4x + 1\nB\n\n2\n12x - 2x + 1\nC\n2\n12x - 4x + 1\nD\nδy\nIf y = cos 3x, find\n32\nδx\n1 sin 3x\nA 3\n− 1 sin 3x\nB 3\n3 sin 3x\nC\n-3 sin 3x\nD\n2\nFind the minimum value of y = x - 2x - 3\n33\n4\nA\n1\nB\n-1\nC\n\n-4\nD\n∫ sin 2xdx\nEvaluate\n34\ncos 2x + k\nA\n1\ncos 2x + k\nB 2\n− 1\ncos 2x + k\nC 2\n-cos 2x + k\nD\n1\n∫ (2x + 3) δx\nEvaluate\n35 2\n1 (2x + 3)6 + k\nA 12\n1 (2x + 3) 1 + k\n2\nB 3\n1 (2x + 3) 3 + k\nC 3 2\n1 (2x + 3) 3 + k\nD 12 4",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 16,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    },
+    {
+      "id": "chunk_0006",
+      "content": "Visit EduNgr.com for FREE educational resources,\nschool news, past questions, and more...\nThe mean of 2 - 4, 4 + t, 3 - 2t and t - 1 is\n36\nt\nA\n-t\nB\n2\nC\n-2\nD\nV alues 0 1 2 3 4\n37\nFrequency 1 2 2 1 9\nFind the mode of the distribution above\n1\nA\n\n2\nB\n3\nC\n4\nD\nFind the median of 5,9,1,10,3,8,9,2,4,5,5,5,7,3\n38\nand 6\n6\nA\n5\nB\n4\nC\n3\nD\nFind the standard deviation of 5, 4, 3, 2, 1\n39\n–\n√2\nA\n–\n√3\nB\n\n–\n√6\nC\n−−\n√10\nD\nIn how many ways can a team of 3 girls be\n40\nselected from 7 girls?\n7!\nA 3!\n7!\nB 4!\n7!\nC 3!4!\n7!\nD 2!5!\nNumbers 1 2 3 4 5 6\n41\nFrequency 18 22 20 16 10 14\nThe table above represents the outcome of throwing a\n\ndie 100 times. What is the probability of obtaining at\nleast a 4?\n1\nA 5\n1\nB 2\n2\nC 5\n3\nD 4\nA number is chosen at random from 10 to 30\n42\nboth inclusive. What is the probability that the\nnumber is divisible by 3?\n2\nA 15\n1\nB 10\n1\nC 3\n2\nD 5\nVisit EduNgr.com for FREE educational resources,\nschool news, past questions, and more...",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 20,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    },
+    {
+      "id": "chunk_0007",
+      "content": "43\nFrom the venn diagram above, the shaded parts\nrepresent\n∩ ∪ ∩\n(P Q) (P R)\nA\n∪ ∩ ∩\n(P Q) (P R)\nB\n∪ ∪ ∪\n(P Q) (P R)\nC\n∩ ∪ ∪\n(P Q) (P R)\nD\n44\n\nIn the figure above, KL//NM, LN bisects < KNM. If\no o\nangles KLN is 54 and angle MKN is 35 , calculate\nthe size of angle KMN.\no\n91\nA\no\n89\nB\no\n37\nC\no\n19\nD\n45\n\nFrom the figure above, what is the value of p?\no\n135\nA\no\n90\nB\no\n60\nC\no\n45\nD\n46\nFind the value of x in the figure above\n–\n√3\n20 cm\nA\n–\n√3\n10 cm\nB\n\n–\n√3\n5 cm\nC\n–\n√3\n4 cm\nD\n47\nin the figure above, what is the equation of the line\nthat passes the y-axis at (0,5) and passes the x-axis at\n(5,0)?\ny = x + 5\nA\ny = -x + 5\nB\ny = x - 5\nC\ny = -x - 5\nD\n\n48\nThe pie chart above shows the monthly distribution\nof a man's salary on food items. If he spent N8,000\non rice, how much did he spent on yam?\nN42,000\nA\nN18,000\nB\nN16,000\nC\nN12,000\nD",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 24,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    },
+    {
+      "id": "chunk_0008",
+      "content": "Answers: JAMB Past\nQuestions: JAMB »\nMathematics » 2014\n1. C\n2. C\nSP = Nx\nCP = N60,000\nPercentage loss = 15%\nUsing percentage loss...\nCP−SP = 100%\nCP\n15% = 60000−x × 100%\n60000\n15% × 60000 = (60000 − x)100%\n60000 − x = 15%×60000\n100%\n60000 - x = 3 x 3000\n60000 -x = 9000\n\nx = 60000 - 9000\nx = N51,000\n3. C\n0.00043 x 2000\n-5 3\n= 43 x 10 x 2 x 10\n-5+3\n= 43 x 2 x 10\n-2\n= 86 x 10\n1 -2\n= 8.6 x 10 x 10\n-1\n= 8.6 x 10\n4. B\nLet;\nM = Man monthly net earnings\nThen;\nN4500 = 10% × M\n100%\n\nM = N4500×100%\n10%\nM = N45,000\n5. B\nIf log 7.5 = 0.8751\nThen 2log75 + log750\n= 2(1.8751) + 2.8751\n= 3.7502 + 2.8751\n= 6.6253\n6. D\n-2\n8x = 2/25\n-2\nx = 2/25 x 1/8\n-2\nx = 2/200\n-2\nx = 1/100\n2\n1/x = 1/100\n2\nx = 100\nx = 10\n\n7. A\n2√2−√3 √2−√3\n= ×\n√2+√3 √2+√3\n2√2(√2)+(2√2)(−√3)−√3(√2)−√3(−√3)\n=\n(√2) 2 −(√3) 2\n2×2−2√6−√6+3\n=\n2−3\n4−3√6+3\n=\n−1\n7−3√6\n=\n−1\n= 7 − 3√6\n−1 −1\n–\n= −7 + 3√6\n–\n= 3√6 − 7\n8. C\n= log 8×16\n2\n4\n= log 32\n2\n= log 25\n2",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 29,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    },
+    {
+      "id": "chunk_0009",
+      "content": "= 5log 2\n2\n= 5 × 1\n= 5\n9. C\n∪\nQ = (P Q) - P\n{6,7}\n10. A\n2\ngt - k - w = 0\n2\ngt = k + w\ng = k+w\nt2\n11. B\n2 2\n2y - 15xy + 18x\n2 2\n2y - 12xy - 3xy + 18x\n2y(y - 6x) - 3x(y - 6x)\n\n(2y - 3x) (y - 6x)\n12. D\n3 2\nif y - 1 is a factor of y + 4y + ky - 6, then\n3\nf(1) = (1) + 4(1)2 + k(1) - 6 = 0 (factor theorem)\n1 + 4 + k - 6 = 0\n5 - 6 + k = 0\n-1 + k = 0\nk = 1\n13. A\ny ∝ w2\n2\ny = kw\n2\n8 = k(2)\n8 = k(4)\nk = 8/4\n\nk = 2\n2\nThus y = 2w\n2\nWhen w = 3, y = 2(3)\ny = 2 x 9 = 18\n14. B\nQ\nP ∝\nR\nQ\nP = K\nR\nWhen Q = 36, R = 16, P = 27\nThen substitute into the equation\n27 = K 36\n16\nK = 27×16\n36\nK = 12\nSo the equation connecting P, Q and R is\n\n12Q\nP =\nR\n15. A\nConsider the range -3 < x < -1\n= { -2, -1, 0}, for instance\nWhen x = -2,\n−2−5 < −1\n−2+3\n−7 < −1\n1\nWhen x = -1,\n−1−5 < −1\n−1+3\n−6 < −1\n2\n= -3 < -1\nWhen x = 0,\n0−5 < −1\n0+3",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 33,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    },
+    {
+      "id": "chunk_0010",
+      "content": "−5 < −1\n3\nHence -3 < x < 1\n16. A\nx + 3 ≤ 5x − 7\n2 4 6 12\n12 x + 12 3 ≤ 12 5x − 12 7\n2 4 6 12\n≤\n6x + 9 10x - 7\n≤\n6x - 10x - 7 - 9\n≤\n-4x -16\n≥\n-4x/-4 -16/-4\n≥\nx 4\n17. C\na + 3d = 13 .......... (1)\na + 9d = 31 .......... (2)\n(2) - (1): 6d = 18\nd = 18/6 = 3\n\nFrom (1), a + 3(3) = 13\na + 9 = 13\na = 13 - 9 = 4\nHence,\nT = a + 23d\n24\nT = 4 + 23(3)\n24\nT = 4 + 69\n24\nT = 73\n24\n18. A\nCommon ratio r of the G.P is\nT +1 T\nr = =\nn 2\nT T\nn 1\n√10+2√5\nr =\n√10+√5\n√10+2√5 √10−√5\nr = ×\n√10+√5 √10−√5\n(√10)(√10)+(√10)(−√5)+(2√5)(√10)+(2√5)(−√5)\n=\n(√10)2−(√5)2\n10−√50+2√50−10\n10−5\n\n√50\n5\n√25×2\n5\n5√2\n5\n–\n√2\n19. B\ny\nx * y = x\nx * 2 = 12 - x\nThus by comparison,\nx = x, y = 2\nBut x * y = x * 2\ny\nx = 12 - x\n2\nx = 12 - x\n2\nx + x - 12 = 0\n2\nx + 4x - 3x - 12 = 0",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 37,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    },
+    {
+      "id": "chunk_0011",
+      "content": "x(x + 4) - 3(x + 4) = 0\n(x - 3)(x + 4) = 0\nx - 3 = 0 or x + 4 = 0\nSo x = 3 or x = -4\n20. C\n5 −6 5 7\n( ) ( ) = ( )\n2 −7 2 −11\nBy matrices multiplication;\n5x - 6y = 7 ........(1)\n2x - 7y = -11 ......(2)\n2 x (1): 10x - 12y = 14 .......(3)\n5 x (2): 10x - 35y = -55 ......(4)\n(3) - (4): 23y = 69\ny = 69/23 = 3\n21. D\n\n∣ −x 12 ∣\n∣ ∣ = −12\n∣ −1 4 ∣\n-4x - (-1)12 = -12\n-4x + 12 = -12\n-4x = -12 - 12\n-4x = - 24\nx = 6\n22. D\n∣ 7 8 ∣ ∣ 1 8 ∣ ∣ 1 7 ∣\n0 ∣ ∣ − 3 ∣ ∣ + 2 ∣ ∣\n∣ 5 4 ∣ ∣ 0 4 ∣ ∣ 0 5 ∣\n= 0(28 - 40) - 3(4 - 0) + 2(5 - 0)\n= 0(-12) - 3(4) + 2(5)\n= 0 - 12 + 10\n= -2\n23. D\n\no\nIf each interior angle of the polygon is 135 , then\no o o\neach exterior angle is 180 - 135 = 45 . Hence,\nnumber of sides =\n360o\none exterior angle\n360o\n45o\n= 8\n24. D\nV = πr2h\nUsing\n6160 = 22/7 x 28 x 28 x h\nh = 6160\n22×4×28\nh = 2.5m\n25. B\n26. C\nMid point of S(-5, 4) and T(-3, -2) is\n[ 1 (−5 + −3), 1 (4 + 2)]\n2 2",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 40,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    },
+    {
+      "id": "chunk_0012",
+      "content": "[ 1 (x + x ), 1 (y + y )]\n1 2 1 2\n2 2\n[ 1 (−8), 1 (2)]\n2 2\n[−4, 1]\n27. A\ny −y\nGradient m =\n2 1\nx −x\n2 1\n1 = 2−4\n2 1−x\n1 - x = 2(2 - 4)\n1 - x = 4 - 8\n1 - x = -4\n-x = -4 - 1\nx = 5\n28. A\ny - 4x + 3 = 0\nWhen y = 0, 0 - 4x + 3 = 0\n\nThen -4x = -3\nx = 3/4\nSo the line cuts the x-axis at point (3/4, 0).\nWhen x = 0, y - 4(0) + 3 = 0\nThen y + 3 = 0\ny = -3\nSo the line cuts the y-axis at the point (0, 3)\nHence the midpoint of the line y - 4x + 3 = 0, which\nlies between the x-axis and the y-axis is;\n[ 1 (x + x ), 1 (y + y )]\n1 2 1 2\n2 2\n[ 1 ( 3 + 0), 1 (0 + −3)]\n2 4 2\n[ 1 ( 3 ), 1 (−3)]\n2 4 2\n[ 3 , −3 ]\n8 2\n29. A\n\n4x + 3y - 5 = 0 (given)\nThe equation of the line perpendicular to the given\nline takes the form 3x - 4y = k\nThus, substitution x = -2 and y = 3 in 3x - 4y = k\ngives;\n3(-2) - 4(3) = k\n-6 - 12 = k\nk = -18\nHence the required equation is 3x - 4y = -18\n3x - 4y + 18 = 0\n30. B\n31. D\n3 2\nIf y = 4x - 2x + x, then;\nδy\n2\n= 3(4x ) - 2(2x) + 1\nδx",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 43,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    },
+    {
+      "id": "chunk_0013",
+      "content": "2\n= 12x - 4x + 1\n32. D\ny = cos 3x\nLet u = 3x so that y = cos u\nδy\n= 3\nNow, ,\nδx\nδy\n= −sinu\nδx\nBy the chain rule,\nδy = δy × δu\nδx δu δx\nδy\n= (− sin u)(3)\nδx\nδy\n= −3 sin u\nδx\nδy\n= −3 sin 3x\nδx\n33. D\n2\ny = x - 2x - 3,\n\nδy\n= 2x − 2\nThen\nδx\nδy\n= 0\nBut at minimum point, ,\nδx\nWhich means 2x - 2 = 0\n2x = 2\nx = 1.\n2\nHence the minimum value of y = x - 2x - 3 is;\n2\ny = (1) - 2(1) - 3\nmin\ny = 1 - 2 - 3\nmin\ny = -4\nmin\n34. C\n∫ sin 2xdx = 1 (− cos 2x) + k\n2\n− 1 cos 2x + k\n2\n35. C\n\n1\n∫ (2x + 3) δx\n2\nδy\n= 2\nlet u = 2x + 3,\nδx\nδx = δu\n2\n∫ (2x + 3) 1 δx = ∫ u 1 . δx\nNow\n2 2\n2\n= 1 ∫ u 1 δu\n2\n2\n= 1 u 3 × 2 + k\n2\n2 3\n= 1 u 3 + k\n2\n3\n= 1 (2x + 3) 3 + k\n2\n3\n36. C\n∑ x\nMean x =\nn\n÷\n= [(2 - t) + (4 + t) + (3 - 2t) + (2 + t) + (t - 1) ] 5\n÷\n= [11 - 1 + 3t - 3t] 5\n÷\n= 10 5\n\n= 2\n37. D\n38. B\nFirst arrange the numbers in order of magnitude;\n1,2,3,3,4,5,5,5,5,6,7,8,9,9,10\nHence the median = 5\n39. A\n∑ x\nMean x =\nn\n= 5+4+3+2+1\n5\n= 15\n5\n= 3",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 46,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    },
+    {
+      "id": "chunk_0014",
+      "content": "x d = x − 3 d2\n5 2 4\n4 1 1\n3 0 0\n2 −1 1\n1 −2 4\n∑ d2 + 10\nHence, standard deviation;\n−−−−\n−−\n= √ ∑ d2 = √ 10\nn 5\n–\n= √2\n40. C\n7C\nA team of 2 girls can be selected from 7 girls in\n3\n= 7!\n(7−3)!3!\n= 7! ways\n4!3!\n\n41. C\nLet E demote the event of obtaining at least a 4\nThen n(E) = 16 + 10 + 14 = 40\nn(E)\nHence, prob (E) =\nn(S)\n= 40\n100\n= 2\n5\n42. C\nSample space S = {10, 11, 12, ... 30}\nLet E denote the event of choosing a number\ndivisible by 3\nThen E = {12, 15, 18, 21, 24, 27, 30} and n(E) = 7\nn(E)\nProb (E) =\nn(E)\n7\nProb (E) =\n21\n1\nProb (E) =\n3\n43. A\n\n44. C\nα o\nIn the diagram above, = 54 (alternate angles;\nα\nKL||MN) < KNM = 2 (LN is bisector of < KNM) =\no\n108\no o o △\n35 + < KMN + 108 = 180 (sum of angles of )\no o\n< KMN + 143 = 180\no o\n< KMN = 180 - 143\no\n= 37\n45. B\no o\nIn the figure above, q = 30 (vertically opposite\nangles)\no o o\n(P + 2q) + 30 = 180 (angles on a straight line)\no o o\np + 2 x 30 + 30 = 180\no o o\np + 60 + 30 = 180\no o\np + 90 = 180",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 50,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    },
+    {
+      "id": "chunk_0015",
+      "content": "o o\np = 180 - 90\no\n= 90\n46. B\nx = 10\nIn the figure above, (Sine rule)\nsin 60o sin 30o\n10 sin 60o\nx =\nsin 30o\n√3 × 1\n= 10 x\n2 2\n√3 × 2\n= 10 x\n2 1\n–\n√3\n= 10 cm\n47. B\n(x , y ) = (0,5)\n1 1\n(x , y ) = (5, 0)\n2 2\ny−y x−x\n=\nUsing 1 1\ny −y x −x\n1 1 1 1\ny−5 = x−0\n0−5 5−0\n\ny−5 = x\n−5 5\n5(y - 5) = -5x\ny - 5 = -x\nx + y = 5\ny = -x + 5\n48. C\nAngle of sector subtended by yam\no o\n= 360 - (70 + 80 + 50)\no o\n= 360 - 200\no\n= 160\n80o\nBut x T = 8000\n360o\n8000×360o\nT =\n80o\n= N36,000\n160o\n× N36, 000\nHence the amount spent on yam =\n260\n\n= N16,000\nGet the complete JAMB » Mathematics past\nquestions & answers, with many years, including\npast & recent years past questions at\nwww.eduNgr.com OR Install EduNgr JAMB &\nPost-UTME App (OFFLINE USE, No Internet\nconnecct required)",
+      "chapter": "Preface",
+      "section": "Introduction",
+      "topic": "Overview",
+      "page": 53,
+      "source_file": "JAMB-Mathematics-Past-Questions-EduNgr-Sample.pdf",
+      "metadata": {}
+    }
+  ],
+  "formula_objects": [
+    {
+      "id": "formula_001",
+      "content": "If log7.5 = 0.8751, evaluate 2 log75 + log750",
+      "context": "If log7.5 = 0.8751, evaluate 2 log75 + log750\n5",
+      "page": 4,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_002",
+      "content": "Solve for x in 8x = 2/25",
+      "context": "-2\nSolve for x in 8x = 2/25\n6",
+      "page": 4,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_003",
+      "content": "If gt - k - w = 0, make g the subject of the",
+      "context": "2\nIf gt - k - w = 0, make g the subject of the\n10",
+      "page": 6,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_004",
+      "content": "A binary operation * is defined by x * y = x . If",
+      "context": "y\nA binary operation * is defined by x * y = x . If\n19",
+      "page": 11,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_005",
+      "content": "x * 2 = 12 - x, find the possible values of x",
+      "context": "19\nx * 2 = 12 - x, find the possible values of x\n3,4",
+      "page": 11,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_006",
+      "content": "4x + 3 = 0, which lies between the x-axis and y-axis.",
+      "context": "28\n4x + 3 = 0, which lies between the x-axis and y-axis.\n( 3 −3 8 2 )",
+      "page": 16,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_007",
+      "content": "3) and perpendicular to 4x + 3y - 5 = 0",
+      "context": "29\n3) and perpendicular to 4x + 3y - 5 = 0\n3x - 4y + 18 = 0",
+      "page": 16,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_008",
+      "content": "3x - 4y + 18 = 0",
+      "context": "3) and perpendicular to 4x + 3y - 5 = 0\n3x - 4y + 18 = 0\nA",
+      "page": 16,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_009",
+      "content": "3x + 2y - 18 = 0",
+      "context": "A\n3x + 2y - 18 = 0\nB",
+      "page": 16,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_010",
+      "content": "4x + 5y + 3 = 0",
+      "context": "B\n4x + 5y + 3 = 0\nC",
+      "page": 16,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_011",
+      "content": "5x - 2y - 11 = 0",
+      "context": "5x - 2y - 11 = 0\nD",
+      "page": 17,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_012",
+      "content": "sin θ = 12 1 + cos θ",
+      "context": "D\nsin θ = 12 1 + cos θ\nIf , find the value of",
+      "page": 17,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_013",
+      "content": "If y = 4x - 2x + x, find",
+      "context": "3 2\nIf y = 4x - 2x + x, find\n31",
+      "page": 17,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_014",
+      "content": "Find the minimum value of y = x - 2x - 3",
+      "context": "2\nFind the minimum value of y = x - 2x - 3\n33",
+      "page": 18,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_015",
+      "content": "y = x + 5",
+      "context": "(5,0)?\ny = x + 5\nA",
+      "page": 27,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_016",
+      "content": "y = -x + 5",
+      "context": "A\ny = -x + 5\nB",
+      "page": 27,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_017",
+      "content": "y = x - 5",
+      "context": "B\ny = x - 5\nC",
+      "page": 27,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_018",
+      "content": "y = -x - 5",
+      "context": "C\ny = -x - 5\nD",
+      "page": 27,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_019",
+      "content": "60000 - x = 3 x 3000",
+      "context": "100%\n60000 - x = 3 x 3000\n60000 -x = 9000",
+      "page": 29,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_020",
+      "content": "60000 -x = 9000",
+      "context": "60000 - x = 3 x 3000\n60000 -x = 9000",
+      "page": 29,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_021",
+      "content": "x = 60000 - 9000",
+      "context": "x = 60000 - 9000\nx = N51,000",
+      "page": 30,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_022",
+      "content": "= 2(1.8751) + 2.8751",
+      "context": "Then 2log75 + log750\n= 2(1.8751) + 2.8751\n= 3.7502 + 2.8751",
+      "page": 31,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_023",
+      "content": "= 3.7502 + 2.8751",
+      "context": "= 2(1.8751) + 2.8751\n= 3.7502 + 2.8751\n= 6.6253",
+      "page": 31,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_024",
+      "content": "8x = 2/25",
+      "context": "-2\n8x = 2/25\n-2",
+      "page": 31,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_025",
+      "content": "x = 2/25 x 1/8",
+      "context": "-2\nx = 2/25 x 1/8\n-2",
+      "page": 31,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_026",
+      "content": "x = 2/200",
+      "context": "-2\nx = 2/200\n-2",
+      "page": 31,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_027",
+      "content": "x = 1/100",
+      "context": "-2\nx = 1/100\n2",
+      "page": 31,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_028",
+      "content": "1/x = 1/100",
+      "context": "2\n1/x = 1/100\n2",
+      "page": 31,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_029",
+      "content": "= 7 − 3√6",
+      "context": "−1\n= 7 − 3√6\n−1 −1",
+      "page": 32,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_030",
+      "content": "= −7 + 3√6",
+      "context": "–\n= −7 + 3√6\n–",
+      "page": 32,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_031",
+      "content": "= 3√6 − 7",
+      "context": "–\n= 3√6 − 7\n8. C",
+      "page": 32,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_032",
+      "content": "Q = (P Q) - P",
+      "context": "∪\nQ = (P Q) - P\n{6,7}",
+      "page": 33,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_033",
+      "content": "gt - k - w = 0",
+      "context": "2\ngt - k - w = 0\n2",
+      "page": 33,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_034",
+      "content": "gt = k + w",
+      "context": "2\ngt = k + w\ng = k+w",
+      "page": 33,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_035",
+      "content": "g = k+w",
+      "context": "gt = k + w\ng = k+w\nt2",
+      "page": 33,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_036",
+      "content": "f(1) = (1) + 4(1)2 + k(1) - 6 = 0 (factor theorem)",
+      "context": "3\nf(1) = (1) + 4(1)2 + k(1) - 6 = 0 (factor theorem)\n1 + 4 + k - 6 = 0",
+      "page": 34,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_037",
+      "content": "1 + 4 + k - 6 = 0",
+      "context": "f(1) = (1) + 4(1)2 + k(1) - 6 = 0 (factor theorem)\n1 + 4 + k - 6 = 0\n5 - 6 + k = 0",
+      "page": 34,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_038",
+      "content": "5 - 6 + k = 0",
+      "context": "1 + 4 + k - 6 = 0\n5 - 6 + k = 0\n-1 + k = 0",
+      "page": 34,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_039",
+      "content": "-1 + k = 0",
+      "context": "5 - 6 + k = 0\n-1 + k = 0\nk = 1",
+      "page": 34,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_040",
+      "content": "k = 8/4",
+      "context": "8 = k(4)\nk = 8/4",
+      "page": 34,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_041",
+      "content": "= { -2, -1, 0}, for instance",
+      "context": "Consider the range -3 < x < -1\n= { -2, -1, 0}, for instance\nWhen x = -2,",
+      "page": 36,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_042",
+      "content": "When x = -2,",
+      "context": "= { -2, -1, 0}, for instance\nWhen x = -2,\n−2−5 < −1",
+      "page": 36,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_043",
+      "content": "When x = -1,",
+      "context": "1\nWhen x = -1,\n−1−5 < −1",
+      "page": 36,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_044",
+      "content": "= -3 < -1",
+      "context": "2\n= -3 < -1\nWhen x = 0,",
+      "page": 36,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_045",
+      "content": "a + 3d = 13 .......... (1)",
+      "context": "17. C\na + 3d = 13 .......... (1)\na + 9d = 31 .......... (2)",
+      "page": 37,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_046",
+      "content": "a + 9d = 31 .......... (2)",
+      "context": "a + 3d = 13 .......... (1)\na + 9d = 31 .......... (2)\n(2) - (1): 6d = 18",
+      "page": 37,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_047",
+      "content": "(2) - (1): 6d = 18",
+      "context": "a + 9d = 31 .......... (2)\n(2) - (1): 6d = 18\nd = 18/6 = 3",
+      "page": 37,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_048",
+      "content": "d = 18/6 = 3",
+      "context": "(2) - (1): 6d = 18\nd = 18/6 = 3",
+      "page": 37,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_049",
+      "content": "From (1), a + 3(3) = 13",
+      "context": "From (1), a + 3(3) = 13\na + 9 = 13",
+      "page": 38,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_050",
+      "content": "a + 9 = 13",
+      "context": "From (1), a + 3(3) = 13\na + 9 = 13\na = 13 - 9 = 4",
+      "page": 38,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_051",
+      "content": "a = 13 - 9 = 4",
+      "context": "a + 9 = 13\na = 13 - 9 = 4\nHence,",
+      "page": 38,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_052",
+      "content": "T = a + 23d",
+      "context": "Hence,\nT = a + 23d\n24",
+      "page": 38,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_053",
+      "content": "T = 4 + 23(3)",
+      "context": "24\nT = 4 + 23(3)\n24",
+      "page": 38,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_054",
+      "content": "T = 4 + 69",
+      "context": "24\nT = 4 + 69\n24",
+      "page": 38,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_055",
+      "content": "x * y = x",
+      "context": "y\nx * y = x\nx * 2 = 12 - x",
+      "page": 39,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_056",
+      "content": "x * 2 = 12 - x",
+      "context": "x * y = x\nx * 2 = 12 - x\nThus by comparison,",
+      "page": 39,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_057",
+      "content": "But x * y = x * 2",
+      "context": "x = x, y = 2\nBut x * y = x * 2\ny",
+      "page": 39,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_058",
+      "content": "x = 12 - x",
+      "context": "y\nx = 12 - x\n2",
+      "page": 39,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_059",
+      "content": "x = 12 - x",
+      "context": "2\nx = 12 - x\n2",
+      "page": 39,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_060",
+      "content": "x + x - 12 = 0",
+      "context": "2\nx + x - 12 = 0\n2",
+      "page": 39,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_061",
+      "content": "x + 4x - 3x - 12 = 0",
+      "context": "2\nx + 4x - 3x - 12 = 0",
+      "page": 39,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_062",
+      "content": "x(x + 4) - 3(x + 4) = 0",
+      "context": "x(x + 4) - 3(x + 4) = 0\n(x - 3)(x + 4) = 0",
+      "page": 40,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_063",
+      "content": "(x - 3)(x + 4) = 0",
+      "context": "x(x + 4) - 3(x + 4) = 0\n(x - 3)(x + 4) = 0\nx - 3 = 0 or x + 4 = 0",
+      "page": 40,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_064",
+      "content": "x - 3 = 0 or x + 4 = 0",
+      "context": "(x - 3)(x + 4) = 0\nx - 3 = 0 or x + 4 = 0\nSo x = 3 or x = -4",
+      "page": 40,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_065",
+      "content": "So x = 3 or x = -4",
+      "context": "x - 3 = 0 or x + 4 = 0\nSo x = 3 or x = -4\n20. C",
+      "page": 40,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_066",
+      "content": "5x - 6y = 7 ........(1)",
+      "context": "By matrices multiplication;\n5x - 6y = 7 ........(1)\n2x - 7y = -11 ......(2)",
+      "page": 40,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_067",
+      "content": "2x - 7y = -11 ......(2)",
+      "context": "5x - 6y = 7 ........(1)\n2x - 7y = -11 ......(2)\n2 x (1): 10x - 12y = 14 .......(3)",
+      "page": 40,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_068",
+      "content": "2 x (1): 10x - 12y = 14 .......(3)",
+      "context": "2x - 7y = -11 ......(2)\n2 x (1): 10x - 12y = 14 .......(3)\n5 x (2): 10x - 35y = -55 ......(4)",
+      "page": 40,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_069",
+      "content": "5 x (2): 10x - 35y = -55 ......(4)",
+      "context": "2 x (1): 10x - 12y = 14 .......(3)\n5 x (2): 10x - 35y = -55 ......(4)\n(3) - (4): 23y = 69",
+      "page": 40,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_070",
+      "content": "(3) - (4): 23y = 69",
+      "context": "5 x (2): 10x - 35y = -55 ......(4)\n(3) - (4): 23y = 69\ny = 69/23 = 3",
+      "page": 40,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_071",
+      "content": "y = 69/23 = 3",
+      "context": "(3) - (4): 23y = 69\ny = 69/23 = 3\n21. D",
+      "page": 40,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_072",
+      "content": "-4x - (-1)12 = -12",
+      "context": "∣ −1 4 ∣\n-4x - (-1)12 = -12\n-4x + 12 = -12",
+      "page": 41,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_073",
+      "content": "-4x + 12 = -12",
+      "context": "-4x - (-1)12 = -12\n-4x + 12 = -12\n-4x = -12 - 12",
+      "page": 41,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_074",
+      "content": "-4x = -12 - 12",
+      "context": "-4x + 12 = -12\n-4x = -12 - 12\n-4x = - 24",
+      "page": 41,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_075",
+      "content": "-4x = - 24",
+      "context": "-4x = -12 - 12\n-4x = - 24\nx = 6",
+      "page": 41,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_076",
+      "content": "= 0(28 - 40) - 3(4 - 0) + 2(5 - 0)",
+      "context": "∣ 5 4 ∣ ∣ 0 4 ∣ ∣ 0 5 ∣\n= 0(28 - 40) - 3(4 - 0) + 2(5 - 0)\n= 0(-12) - 3(4) + 2(5)",
+      "page": 41,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_077",
+      "content": "= 0(-12) - 3(4) + 2(5)",
+      "context": "= 0(28 - 40) - 3(4 - 0) + 2(5 - 0)\n= 0(-12) - 3(4) + 2(5)\n= 0 - 12 + 10",
+      "page": 41,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_078",
+      "content": "= 0 - 12 + 10",
+      "context": "= 0(-12) - 3(4) + 2(5)\n= 0 - 12 + 10\n= -2",
+      "page": 41,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_079",
+      "content": "= -2",
+      "context": "= 0 - 12 + 10\n= -2\n23. D",
+      "page": 41,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_080",
+      "content": "each exterior angle is 180 - 135 = 45 . Hence,",
+      "context": "o o o\neach exterior angle is 180 - 135 = 45 . Hence,\nnumber of sides =",
+      "page": 42,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_081",
+      "content": "V = πr2h",
+      "context": "24. D\nV = πr2h\nUsing",
+      "page": 42,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_082",
+      "content": "6160 = 22/7 x 28 x 28 x h",
+      "context": "Using\n6160 = 22/7 x 28 x 28 x h\nh = 6160",
+      "page": 42,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_083",
+      "content": "1 - x = 2(2 - 4)",
+      "context": "2 1−x\n1 - x = 2(2 - 4)\n1 - x = 4 - 8",
+      "page": 43,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_084",
+      "content": "1 - x = 4 - 8",
+      "context": "1 - x = 2(2 - 4)\n1 - x = 4 - 8\n1 - x = -4",
+      "page": 43,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_085",
+      "content": "1 - x = -4",
+      "context": "1 - x = 4 - 8\n1 - x = -4\n-x = -4 - 1",
+      "page": 43,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_086",
+      "content": "-x = -4 - 1",
+      "context": "1 - x = -4\n-x = -4 - 1\nx = 5",
+      "page": 43,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_087",
+      "content": "y - 4x + 3 = 0",
+      "context": "28. A\ny - 4x + 3 = 0\nWhen y = 0, 0 - 4x + 3 = 0",
+      "page": 43,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_088",
+      "content": "When y = 0, 0 - 4x + 3 = 0",
+      "context": "y - 4x + 3 = 0\nWhen y = 0, 0 - 4x + 3 = 0",
+      "page": 43,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_089",
+      "content": "Then -4x = -3",
+      "context": "Then -4x = -3\nx = 3/4",
+      "page": 44,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_090",
+      "content": "x = 3/4",
+      "context": "Then -4x = -3\nx = 3/4\nSo the line cuts the x-axis at point (3/4, 0).",
+      "page": 44,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_091",
+      "content": "When x = 0, y - 4(0) + 3 = 0",
+      "context": "So the line cuts the x-axis at point (3/4, 0).\nWhen x = 0, y - 4(0) + 3 = 0\nThen y + 3 = 0",
+      "page": 44,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_092",
+      "content": "Then y + 3 = 0",
+      "context": "When x = 0, y - 4(0) + 3 = 0\nThen y + 3 = 0\ny = -3",
+      "page": 44,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_093",
+      "content": "y = -3",
+      "context": "Then y + 3 = 0\ny = -3\nSo the line cuts the y-axis at the point (0, 3)",
+      "page": 44,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_094",
+      "content": "Hence the midpoint of the line y - 4x + 3 = 0, which",
+      "context": "So the line cuts the y-axis at the point (0, 3)\nHence the midpoint of the line y - 4x + 3 = 0, which\nlies between the x-axis and the y-axis is;",
+      "page": 44,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_095",
+      "content": "4x + 3y - 5 = 0 (given)",
+      "context": "4x + 3y - 5 = 0 (given)\nThe equation of the line perpendicular to the given",
+      "page": 45,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_096",
+      "content": "line takes the form 3x - 4y = k",
+      "context": "The equation of the line perpendicular to the given\nline takes the form 3x - 4y = k\nThus, substitution x = -2 and y = 3 in 3x - 4y = k",
+      "page": 45,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_097",
+      "content": "Thus, substitution x = -2 and y = 3 in 3x - 4y = k",
+      "context": "line takes the form 3x - 4y = k\nThus, substitution x = -2 and y = 3 in 3x - 4y = k\ngives;",
+      "page": 45,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_098",
+      "content": "3(-2) - 4(3) = k",
+      "context": "gives;\n3(-2) - 4(3) = k\n-6 - 12 = k",
+      "page": 45,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_099",
+      "content": "-6 - 12 = k",
+      "context": "3(-2) - 4(3) = k\n-6 - 12 = k\nk = -18",
+      "page": 45,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_100",
+      "content": "k = -18",
+      "context": "-6 - 12 = k\nk = -18\nHence the required equation is 3x - 4y = -18",
+      "page": 45,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_101",
+      "content": "Hence the required equation is 3x - 4y = -18",
+      "context": "k = -18\nHence the required equation is 3x - 4y = -18\n3x - 4y + 18 = 0",
+      "page": 45,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_102",
+      "content": "3x - 4y + 18 = 0",
+      "context": "Hence the required equation is 3x - 4y = -18\n3x - 4y + 18 = 0\n30. B",
+      "page": 45,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_103",
+      "content": "If y = 4x - 2x + x, then;",
+      "context": "3 2\nIf y = 4x - 2x + x, then;\nδy",
+      "page": 45,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_104",
+      "content": "= 3(4x ) - 2(2x) + 1",
+      "context": "2\n= 3(4x ) - 2(2x) + 1\nδx",
+      "page": 45,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_105",
+      "content": "= 12x - 4x + 1",
+      "context": "2\n= 12x - 4x + 1\n32. D",
+      "page": 46,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_106",
+      "content": "y = x - 2x - 3,",
+      "context": "2\ny = x - 2x - 3,",
+      "page": 46,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_107",
+      "content": "Which means 2x - 2 = 0",
+      "context": "δx\nWhich means 2x - 2 = 0\n2x = 2",
+      "page": 47,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_108",
+      "content": "Hence the minimum value of y = x - 2x - 3 is;",
+      "context": "2\nHence the minimum value of y = x - 2x - 3 is;\n2",
+      "page": 47,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_109",
+      "content": "y = (1) - 2(1) - 3",
+      "context": "2\ny = (1) - 2(1) - 3\nmin",
+      "page": 47,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_110",
+      "content": "y = 1 - 2 - 3",
+      "context": "min\ny = 1 - 2 - 3\nmin",
+      "page": 47,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_111",
+      "content": "y = -4",
+      "context": "min\ny = -4\nmin",
+      "page": 47,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_112",
+      "content": "∫ sin 2xdx = 1 (− cos 2x) + k",
+      "context": "34. C\n∫ sin 2xdx = 1 (− cos 2x) + k\n2",
+      "page": 47,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_113",
+      "content": "let u = 2x + 3,",
+      "context": "= 2\nlet u = 2x + 3,\nδx",
+      "page": 48,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_114",
+      "content": "∫ (2x + 3) 1 δx = ∫ u 1 . δx",
+      "context": "2\n∫ (2x + 3) 1 δx = ∫ u 1 . δx\nNow",
+      "page": 48,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_115",
+      "content": "= 1 ∫ u 1 δu",
+      "context": "2\n= 1 ∫ u 1 δu\n2",
+      "page": 48,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_116",
+      "content": "= 1 u 3 × 2 + k",
+      "context": "2\n= 1 u 3 × 2 + k\n2",
+      "page": 48,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_117",
+      "content": "= 1 u 3 + k",
+      "context": "2 3\n= 1 u 3 + k\n2",
+      "page": 48,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_118",
+      "content": "= 1 (2x + 3) 3 + k",
+      "context": "3\n= 1 (2x + 3) 3 + k\n2",
+      "page": 48,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_119",
+      "content": "= [(2 - t) + (4 + t) + (3 - 2t) + (2 + t) + (t - 1) ] 5",
+      "context": "÷\n= [(2 - t) + (4 + t) + (3 - 2t) + (2 + t) + (t - 1) ] 5\n÷",
+      "page": 48,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_120",
+      "content": "= [11 - 1 + 3t - 3t] 5",
+      "context": "÷\n= [11 - 1 + 3t - 3t] 5\n÷",
+      "page": 48,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_121",
+      "content": "= 5+4+3+2+1",
+      "context": "n\n= 5+4+3+2+1\n5",
+      "page": 49,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_122",
+      "content": "= √ ∑ d2 = √ 10",
+      "context": "−−\n= √ ∑ d2 = √ 10\nn 5",
+      "page": 50,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_123",
+      "content": "= √2",
+      "context": "–\n= √2\n40. C",
+      "page": 50,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_124",
+      "content": "Then n(E) = 16 + 10 + 14 = 40",
+      "context": "Let E demote the event of obtaining at least a 4\nThen n(E) = 16 + 10 + 14 = 40\nn(E)",
+      "page": 51,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_125",
+      "content": "35 + < KMN + 108 = 180 (sum of angles of )",
+      "context": "o o o △\n35 + < KMN + 108 = 180 (sum of angles of )\no o",
+      "page": 52,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_126",
+      "content": "< KMN + 143 = 180",
+      "context": "o o\n< KMN + 143 = 180\no o",
+      "page": 52,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_127",
+      "content": "< KMN = 180 - 143",
+      "context": "o o\n< KMN = 180 - 143\no",
+      "page": 52,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_128",
+      "content": "(P + 2q) + 30 = 180 (angles on a straight line)",
+      "context": "o o o\n(P + 2q) + 30 = 180 (angles on a straight line)\no o o",
+      "page": 52,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_129",
+      "content": "p + 2 x 30 + 30 = 180",
+      "context": "o o o\np + 2 x 30 + 30 = 180\no o o",
+      "page": 52,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_130",
+      "content": "p + 60 + 30 = 180",
+      "context": "o o o\np + 60 + 30 = 180\no o",
+      "page": 52,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_131",
+      "content": "p + 90 = 180",
+      "context": "o o\np + 90 = 180",
+      "page": 52,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_132",
+      "content": "p = 180 - 90",
+      "context": "o o\np = 180 - 90\no",
+      "page": 53,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_133",
+      "content": "5(y - 5) = -5x",
+      "context": "−5 5\n5(y - 5) = -5x\ny - 5 = -x",
+      "page": 54,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_134",
+      "content": "y - 5 = -x",
+      "context": "5(y - 5) = -5x\ny - 5 = -x\nx + y = 5",
+      "page": 54,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_135",
+      "content": "x + y = 5",
+      "context": "y - 5 = -x\nx + y = 5\ny = -x + 5",
+      "page": 54,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_136",
+      "content": "y = -x + 5",
+      "context": "x + y = 5\ny = -x + 5\n48. C",
+      "page": 54,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_137",
+      "content": "= 360 - (70 + 80 + 50)",
+      "context": "o o\n= 360 - (70 + 80 + 50)\no o",
+      "page": 54,
+      "chapter": "Preface",
+      "metadata": {}
+    },
+    {
+      "id": "formula_138",
+      "content": "= 360 - 200",
+      "context": "o o\n= 360 - 200\no",
+      "page": 54,
+      "chapter": "Preface",
+      "metadata": {}
+    }
+  ],
+  "image_objects": [
+    {
+      "id": "image_001",
+      "name": "img_p4_01",
+      "page": 4,
+      "context": "Image object detected at coordinates x0=51.9, y0=325.6 on page 4",
+      "chapter": "Introduction",
+      "metadata": {}
+    },
+    {
+      "id": "image_002",
+      "name": "img_p7_02",
+      "page": 7,
+      "context": "Image object detected at coordinates x0=51.9, y0=675.8 on page 7",
+      "chapter": "Introduction",
+      "metadata": {}
+    },
+    {
+      "id": "image_003",
+      "name": "img_p9_03",
+      "page": 9,
+      "context": "Image object detected at coordinates x0=51.9, y0=124.6 on page 9",
+      "chapter": "Introduction",
+      "metadata": {}
+    },
+    {
+      "id": "image_004",
+      "name": "img_p12_04",
+      "page": 12,
+      "context": "Image object detected at coordinates x0=51.9, y0=522.0 on page 12",
+      "chapter": "Introduction",
+      "metadata": {}
+    },
+    {
+      "id": "image_005",
+      "name": "img_p15_05",
+      "page": 15,
+      "context": "Image object detected at coordinates x0=51.9, y0=740.1 on page 15",
+      "chapter": "Introduction",
+      "metadata": {}
+    },
+    {
+      "id": "image_006",
+      "name": "img_p17_06",
+      "page": 17,
+      "context": "Image object detected at coordinates x0=51.9, y0=247.2 on page 17",
+      "chapter": "Introduction",
+      "metadata": {}
+    },
+    {
+      "id": "image_007",
+      "name": "img_p20_07",
+      "page": 20,
+      "context": "Image object detected at coordinates x0=51.9, y0=596.8 on page 20",
+      "chapter": "Introduction",
+      "metadata": {}
+    },
+    {
+      "id": "image_008",
+      "name": "img_p22_08",
+      "page": 22,
+      "context": "Image object detected at coordinates x0=51.9, y0=164.1 on page 22",
+      "chapter": "Introduction",
+      "metadata": {}
+    },
+    {
+      "id": "image_009",
+      "name": "img_p24_09",
+      "page": 24,
+      "context": "Image object detected at coordinates x0=51.9, y0=550.9 on page 24",
+      "chapter": "Introduction",
+      "metadata": {}
+    },
+    {
+      "id": "image_010",
+      "name": "img_p25_10",
+      "page": 25,
+      "context": "Image object detected at coordinates x0=51.9, y0=688.8 on page 25",
+      "chapter": "Introduction",
+      "metadata": {}
+    },
+    {
+      "id": "image_011",
+      "name": "img_p25_11",
+      "page": 25,
+      "context": "Image object detected at coordinates x0=51.9, y0=85.7 on page 25",
+      "chapter": "Introduction",
+      "metadata": {}
+    },
+    {
+      "id": "image_012",
+      "name": "img_p26_12",
+      "page": 26,
+      "context": "Image object detected at coordinates x0=51.9, y0=402.9 on page 26",
+      "chapter": "Introduction",
+      "metadata": {}
+    },
+    {
+      "id": "image_013",
+      "name": "img_p26_13",
+      "page": 26,
+      "context": "Image object detected at coordinates x0=51.9, y0=240.7 on page 26",
+      "chapter": "Introduction",
+      "metadata": {}
+    },
+    {
+      "id": "image_014",
+      "name": "img_p27_14",
+      "page": 27,
+      "context": "Image object detected at coordinates x0=51.9, y0=392.3 on page 27",
+      "chapter": "Introduction",
+      "metadata": {}
+    },
+    {
+      "id": "image_015",
+      "name": "img_p28_15",
+      "page": 28,
+      "context": "Image object detected at coordinates x0=51.9, y0=542.6 on page 28",
+      "chapter": "Introduction",
+      "metadata": {}
+    }
+  ],
+  "table_objects": []
+}

@@ -12,14 +12,20 @@ import re
 from datetime import datetime
 from typing import Optional
 
-from .models import (
-    TextbookMetadata,
-    ProcessedTextbook,
-    SectionNode
-)
-from .extractor_txt import extract_txt_textbook
-from .extractor_pdf import extract_pdf_textbook
-from .chunker import semantic_chunk_text
+try:
+    from .models import (
+        TextbookMetadata,
+        ProcessedTextbook,
+        SectionNode
+    )
+    from .extractor_txt import extract_txt_textbook
+    from .extractor_pdf import extract_pdf_textbook
+    from .chunker import semantic_chunk_text
+except ImportError:
+    from models import TextbookMetadata, ProcessedTextbook, SectionNode
+    from extractor_txt import extract_txt_textbook
+    from extractor_pdf import extract_pdf_textbook
+    from chunker import semantic_chunk_text
 
 
 def format_cleaned_txt(processed: ProcessedTextbook) -> str:

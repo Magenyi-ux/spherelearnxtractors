@@ -59,8 +59,11 @@ def extract_pdf_textbook(
     table_count = 0
     image_count = 0
 
+    pdfplumber_available = PDFPLUMBER_AVAILABLE
+    pypdf_available = PYPDF_AVAILABLE
+
     # Execute extraction
-    if PDFPLUMBER_AVAILABLE:
+    if pdfplumber_available:
         try:
             with pdfplumber.open(file_path) as pdf:
                 if len(pdf.pages) == 0:
@@ -110,11 +113,11 @@ def extract_pdf_textbook(
                             ))
         except Exception as e:
             # Fall back to pypdf or mock if corrupted
-            if not PYPDF_AVAILABLE:
+            if not pypdf_available:
                 raise ValueError(f"Failed to read PDF with pdfplumber, and pypdf is unavailable: {e}")
-            PYPDF_AVAILABLE = True  # force pypdf try
+            pypdf_available = True  # force pypdf try
             
-    if PYPDF_AVAILABLE and not raw_pages:
+    if pypdf_available and not raw_pages:
         try:
             with open(file_path, 'rb') as f:
                 reader = pypdf.PdfReader(f)
